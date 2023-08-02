@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "best_pw_management",
+    "slug": "best_pw_management"
+  }
+}
